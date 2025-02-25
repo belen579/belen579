@@ -4,10 +4,10 @@ Soy desarrolladora con experiencia en tecnologías como **React**, **Express**, 
 
 ## Tecnologías y Herramientas 🔧
 
-- **Frontend**: React, JavaScript, HTML, CSS
+- **Frontend**: React, JavaScript, HTML, CSS, PHP
 - **Backend**: Express, Node.js, Python, FastAPI
-- **Bases de Datos**: MongoDB
-- **Desarrollo Móvil**: Kotlin 📱
+- **Bases de Datos**: MongoDB, MYSQL
+- **Desarrollo Móvil**: Kotlin Java📱
 - **Contenedores**: Docker 🐳
 
 ## Proyectos 💻
