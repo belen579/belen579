@@ -17,9 +17,10 @@ Puedo crear soluciones robustas tanto en el frontend como en el backend, desde a
 Aquí tienes algunos enlaces a mis proyectos:
 
 - [Proyecto React + Express + MongoDB](https://rojo-frontend.onrender.com/home) 🔗
-- [Aplicación móvil en Kotlin](#) 📲
-- [Proyecto con FastAPI](#) 🚀
-- [Contenedor Docker para Desarrollo](#) 🐋
+- [Aplicación Java Carrera de Coches](https://github.com/belen579/Carrera_Coches) 📲
+- [Aplicación Kotlin agenda de Contactos ](https://github.com/belen579/AgendaContactosNueva) 📲
+- [Proyecto con FastAPI, PHP y Contenedor Docker para Desarrollo (En fase de prueba)](#) 🚀🐋
+
 
 ## Encuéntrame en LinkedIn 🌐
 
